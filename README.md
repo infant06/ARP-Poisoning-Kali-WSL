@@ -1,8 +1,8 @@
-# ARP-Poisoning-Kali-WSL
-ARP Poisoning Kali WSL
+# ARP-Poisoning-Kali-WSL or Virtualbox
+ARP Poisoning Kali WSL or Virtualbox
 
-# Type "ip add"
+# Install packages with "pip install scapy ipaddress"
 
-and copy 00:15:5d:65:1d:fd ( Mac address from eth0: )
+
 
 
